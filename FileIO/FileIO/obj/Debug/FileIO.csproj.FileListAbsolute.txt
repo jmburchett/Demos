@@ -1,0 +1,10 @@
+E:\_Amethyst\Projects\Visual Studio\FileIO\FileIO\bin\Debug\FileIO.exe.config
+E:\_Amethyst\Projects\Visual Studio\FileIO\FileIO\bin\Debug\FileIO.exe
+E:\_Amethyst\Projects\Visual Studio\FileIO\FileIO\bin\Debug\FileIO.pdb
+E:\_Amethyst\Projects\Visual Studio\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+E:\_Amethyst\Projects\Visual Studio\FileIO\FileIO\obj\Debug\FileIO.Properties.Resources.resources
+E:\_Amethyst\Projects\Visual Studio\FileIO\FileIO\obj\Debug\FileIO.csproj.GenerateResource.cache
+E:\_Amethyst\Projects\Visual Studio\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+E:\_Amethyst\Projects\Visual Studio\FileIO\FileIO\obj\Debug\FileIO.exe
+E:\_Amethyst\Projects\Visual Studio\FileIO\FileIO\obj\Debug\FileIO.pdb
+E:\_Amethyst\Projects\Visual Studio\FileIO\FileIO\obj\Debug\FileIO.frmFileIO.resources
